@@ -1,0 +1,3 @@
+- Tech for farmers using embedded programming.
+- An App that helps teachers 
+- An AI agent based on the Ncert books (create and app out of it as a website already exists. [https://ncertai.site/])
