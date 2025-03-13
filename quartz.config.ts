@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "knowledgebase.arjav.dino.icu",
+    baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: true,
@@ -30,26 +30,28 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          // Gruvbox Light palette
+          light: "#fbf1c7",        // Background
+          lightgray: "#ebdbb2",     // Lighter background
+          gray: "#d5c4a1",          // Subtle elements
+          darkgray: "#bdae93",      // Secondary element shadows
+          dark: "#3c3836",          // Foreground/Text
+          secondary: "#98971a",     // Accent (green)
+          tertiary: "#d79921",      // Accent (yellow)
+          highlight: "rgba(250, 189, 47, 0.15)", // Highlight with transparency
+          textHighlight: "#3c3836", // Text highlight color
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          // Gruvbox Dark palette
+          light: "#282828",         // Background
+          lightgray: "#3c3836",      // Slightly lighter background
+          gray: "rgb(188, 238, 254)",           // Midtone element
+          darkgray: "rgb(225, 221, 177)",       // Secondary elements
+          dark: "#ebdbb2",           // Foreground/Text
+          secondary: "rgb(200, 229, 255)",      // Accent (green)
+          tertiary: "#d79921",       // Accent (yellow)
+          highlight: "rgba(250, 189, 47, 0.15)", // Highlight with transparency
+          textHighlight: "#ebdbb2",  // Text highlight color
         },
       },
     },
