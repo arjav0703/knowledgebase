@@ -9,7 +9,7 @@ Take, for example, the field of science. As scientists uncover discoveries and t
 This creates a paradox where we acquire knowledge, which in turn makes out understanding on knowledge more and more vast, hence leaving us in a state of confusion where  *the more we learn, the more we realize how little we know.*  
 
 ### Where School goes wrong
-See, in School, they try to make you feel like you know everything (or that you were taught everything by your teachers). They never want you to realize that you don't know s#!t. Again, I'd like to take the example of science. We are taught about Einstein's Theory of Relativity, yet they never teach you about singularity, the concept of multiple dimentions , things like space-time. All these things are the foundations on top of which concepts like relativity are formed. 
+See, in School, they try to make you feel like you know everything (or that you were taught everything by your teachers). They never want you to realize that you don't know s#!t. Again, I'd like to take the example of science. We are taught about Einstein's Theory of Relativity, yet they never teach you about singularity, the concept of multiple dimensions , things like space-time. All these things are the foundations on top of which concepts like relativity are formed. 
 
 And why do they not teach all that? **because it will make you raise questions. Questions that can't be answered by even the greatest physicists ever born.** 
 
