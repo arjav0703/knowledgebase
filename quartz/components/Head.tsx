@@ -222,6 +222,10 @@ export default (() => {
             return resource
           }
         })}
+        <meta
+          name="google-site-verification"
+          content="DmGaAr_g-Oz3oVV_qdBmIaeevtKAPJKavrsTDD2KxsE"
+        />
       </head>
     )
   }
