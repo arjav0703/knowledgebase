@@ -1,0 +1,6 @@
+Hear me out, I know it's pretty obvious but many of us often ignore this. Loving yourselves is not just about the "aesthetics" of love, but about having confidence, trust and obsession with yourselves and your work.
+
+For example, instead of getting sad about your handwriting being ugly, embrace it! i know that the notion of "perfect" handwriting looks tempting and you get jealous of that one person who's writing is *uniform and beautiful*. Like each and every word is perfectly aligned just like typing on a computer. But, no matter what, your writing is yours. Remember, **you are a human, not a fucking machine.** your silly mistakes are unique to you. that one letter that you always get wrong is right for you. ***Being a human is all about accepting the flaws and imperfections that come with it***. 
+
+Another thing, accept who you are. Don't tie yourselves with the social stereotypes. some fucking social constructs can't stop you from what you are. 
+eg. oh, you're a boy, you can't wear cat ears. I mean, fuck that shit, I AM GOING TO WEAR CAT EARS. just be yourself. 
